@@ -3,7 +3,7 @@ angles==1.9.12
 apturl==0.5.2
 asn1crypto==0.24.0
 base-local-planner==1.16.3
-bleach==2.1.2
+bleach==3.3.0
 bondpy==1.8.3
 Brlapi==0.6.6
 camera-calibration==1.14.0
